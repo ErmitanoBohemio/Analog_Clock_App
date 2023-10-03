@@ -1,0 +1,15 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 21/03/2022, 5:39:28 p. m.
+    Author     : OscarFabianHP
+*/
+
+Text {
+    -fx-font-size: 30pt;
+    -fx-font-family: "Consola";
+    -fx-fill:black;
+    -fx-font-weight: bold;
+}
